@@ -52,6 +52,16 @@ input[type="submit"]:hover, form a:hover{
 	font-size: 15px;
 }
 
+fieldset{
+	width: 300px;
+	margin: auto;
+	margin-bottom: 2em;
+	display: block;
+}
+
+h1{
+	text-shadow:0 1px 0 white;
+}
 
 
 
