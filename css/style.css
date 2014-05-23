@@ -42,6 +42,16 @@ input[type="submit"], form a{
 
 }
 
+input[type="submit"]:hover, form a:hover{
+	background: #287368;
+	cursor: pointer;
+}
+
+.error{
+	color: #393939;
+	font-size: 15px;
+}
+
 
 
 
