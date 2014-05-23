@@ -17,7 +17,7 @@ body{
 
 h1,h2,h3,h4,h5{
 	margin-top:0;
-	font-family: arial black,arial,
+	font-family: arial black,arial;
 	text-align:center;
 }
 
@@ -27,6 +27,19 @@ input[type="text"],input[type="password"]{
 	width: 280px;
 	border:5px;
 	padding: 1em;
+}
+
+input[type="submit"], form a{
+	border:none;
+	margin-right: 1em;
+	padding: 6px;
+	text-decoration: none;
+	font-size: 12px;
+	border-radius: 4px;
+	background: #348075;
+	color: white;
+	box-shadow: 0 1px 0 white;
+
 }
 
 
