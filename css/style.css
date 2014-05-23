@@ -4,3 +4,13 @@ body{
 	padding: 0;
 	font-family: arial;
 }
+
+#login_form{
+	width: 300px;
+	background: #f0f0f0;
+	border: 1px solid width;
+	margin: 250px auto 0;
+	padding: 1em;
+	border-radius: 3px;
+
+}
