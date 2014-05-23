@@ -20,3 +20,20 @@ h1,h2,h3,h4,h5{
 	font-family: arial black,arial,
 	text-align:center;
 }
+
+input[type="text"],input[type="password"]{
+	display: block;
+	margin: 0 0 1em 0;
+	width: 280px;
+	border:5px;
+	padding: 1em;
+}
+
+
+
+
+
+
+
+
+
